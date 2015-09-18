@@ -1,3 +1,5 @@
+* This code is too old. Check the latest version of the [phonegap-googlemaps-plugin](https://github.com/wf9a5m75/phonegap-googlemaps-plugin)
+
 How to install `phonegap-googlemaps-plugin` for Ionic framework?
 ----
 ```bash
